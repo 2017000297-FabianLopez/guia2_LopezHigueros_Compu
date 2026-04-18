@@ -5,7 +5,7 @@
 
 /**
  *
- * @author NICU
+ * @author fabi
  */
 public class jfrmCalculadoraC extends javax.swing.JFrame {
     String entrada = "";
